@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CentroMedico.DALC.CentroMedicoEntities" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQACAAAAABEAAAAAkIAAAQAAAAACAAAAAAA=</HashCode>
+      <FileName>CentroMedicoEDM.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CentroMedico.DALC.AGENDA">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAgAAAAAAAAAAAAQAAAAAAACABAAAAAAA=</HashCode>
+      <FileName>AGENDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CentroMedico.DALC.CALENDARIO_BASE">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAABAAAAAgAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CALENDARIO_BASE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CentroMedico.DALC.CENTRO_MEDICO" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAgAAAAAAAAAAAgICIAAAAgSAAAAAAAAA=</HashCode>
+      <FileName>CENTRO_MEDICO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CentroMedico.DALC.DISPONIBILIDAD" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQBARAAAIAAgAAAIAIAACAAAAAAAAAAACABAAAAAAA=</HashCode>
+      <FileName>DISPONIBILIDAD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CentroMedico.DALC.ESPECIALIDAD">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ESPECIALIDAD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CentroMedico.DALC.MEDICO">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAaAAAAAAAA0AAAABEAAAAAAACIAQEAAQAGAAAAAAA=</HashCode>
+      <FileName>MEDICO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CentroMedico.DALC.SECRETARIA" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAaAAAAAAAAgAAAABAAAAAAAACIAAEAAQAEAAAAAAA=</HashCode>
+      <FileName>SECRETARIA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
